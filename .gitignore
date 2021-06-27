@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProjectX/.vs/ProjectX
+/Blog/ProejctBlog/.vs/ProejctBlog
+/Blog/ProejctBlog/ProejctBlogAPI/obj
+/Blog/ProejctBlog/ProejctBlogAPI/bin/Debug/netcoreapp3.1
+/Blog/ProejctBlog/ProjectBlogDataAccess/obj
+/Blog/ProejctBlog/ProjectBlogDataAccess/bin/Debug/netcoreapp3.1
+/Blog/ProejctBlog/ProjectBlogEntities/obj
+/Blog/ProejctBlog/ProjectBlogEntities/bin/Debug/netstandard2.0
+/Blog/ProejctBlog/ProjectBlogService/obj
+/Blog/ProejctBlog/ProjectBlogService/bin/Debug/netcoreapp3.1
